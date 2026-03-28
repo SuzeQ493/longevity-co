@@ -21,7 +21,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-stone-100">
       <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <span className="text-xl font-bold text-stone-900 tracking-tight">Longevity Co.</span>
+          <span className="text-2xl font-bold text-stone-900 tracking-tight">Longevity Co.</span>
         </Link>
 
         {/* Desktop nav */}
